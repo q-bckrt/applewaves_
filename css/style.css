@@ -34,7 +34,7 @@ body {
 
 }
 
-.title_underscore {
+.y_char {
     color: #D0FA00;
     text-decoration: blink;
 }
@@ -101,6 +101,11 @@ body {
     border: 3px solid #D2D2D2;
     width: 30%;
     margin: auto;
+    margin-bottom: 7%;
+}
+
+.ctc_input {
+    margin-bottom: 3%;
 }
 
 /*
