@@ -2,6 +2,19 @@ body {
     margin: 0;
     font-family: Roboto Mono, Sans-Serif;
     background-color: #141414;
+    background-image: url('../images/applewaves_bg_1pc.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom 10%;
+    background-size: 100%;
+}
+
+.bd_img {
+    position: fixed;
+    bottom: 0%;
+    opacity: 0.02;
+    width: 125%;
+    height: 150%;
 }
 
 .heading {
@@ -109,13 +122,6 @@ body {
     margin: 2%;
 }
 
-.bd_img {
-    position: fixed;
-    bottom: 0%;
-    opacity: 0.02;
-    width: 125%;
-    height: 150%;
-}
 
 .bg_img:hover {
     opacity: 0.8;
